@@ -161,11 +161,7 @@ def main(args):
 
     # Create a New "data"-like item, to store the corresponding data the same structure
 
-        # 名字中不带 _devel：
-        # training set: 前120 non _devel + 相似的所有training individual 
-        # testing set: 120后 non _devel 分割每一个时刻
 
-    # 新的testing set
     New_validation = {}
     New_validation['feature']=[]
     New_validation['label']=[]
