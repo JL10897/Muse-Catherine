@@ -1,0 +1,4 @@
+MuSe-2023 filter=lfs diff=lfs merge=lfs -text
+MuseMain filter=lfs diff=lfs merge=lfs -text
+MuseMain.zip filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
